@@ -31,7 +31,7 @@ which you can install using
 pip install dist/pipprojectpkg-0.1.0-py3-none-any.whl
 ```
 
-## Finally, uplaoding to pypi
+## Finally, uploading to pypi
 
 - create .pypric file in home directory
   - for windows `C:\users\username\.pypirc`
