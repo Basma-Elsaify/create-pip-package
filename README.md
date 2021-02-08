@@ -1,5 +1,7 @@
 # How to package python project into pip
 
+for more details [python docs](https://packaging.python.org/tutorials/packaging-projects/)
+
 ## Prerequisites
 
 - stating the obvious, you need python 3.+ and pip as well
