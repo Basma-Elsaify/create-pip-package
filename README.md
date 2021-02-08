@@ -5,7 +5,7 @@ for more details [python docs](https://packaging.python.org/tutorials/packaging-
 ## Prerequisites
 
 - stating the obvious, you need python 3.+ and pip as well
-- plus the following packages [setuptools, wheel, tqdm, twine, version]
+- plus the following packages [setuptools wheel tqdm twine version]
 - you need an account with pip people to upload there [pypi](https://pypi.org)
 
 ## Structure
